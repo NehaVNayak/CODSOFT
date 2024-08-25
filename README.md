@@ -18,7 +18,7 @@ A simple calculator application that performs basic arithmetic operations such a
 - **How to Run:**
   1. Navigate to the project directory:
      ```bash
-     cd CodeSoft_Internship/Calculator
+     cd codeSoft_Internship/Calculator
      ```
   2. Run the calculator script:
      ```bash
@@ -29,19 +29,18 @@ A simple calculator application that performs basic arithmetic operations such a
 A command-line contact book application that allows users to manage their contacts, including storing, viewing, searching, updating, and deleting contact information.
 
 - **Features:**
-  - Add new contacts (name, phone number, and email)
-  - Search contacts by name or phone number
+  - Add new contacts (name, phone number, address  and email)
+  - Search contacts by name
   - Update and delete existing contacts
   - Display all contacts in a list
 
 - **Technologies Used:**
   - Python
-  - CSV for data storage
 
 - **How to Run:**
   1. Navigate to the project directory:
      ```bash
-     cd CodeSoft_Internship/Contact_Book
+     cd codeSoft_Internship/Contact_Book
      ```
   2. Run the contact book script:
      ```bash
@@ -63,7 +62,7 @@ A Python script that generates secure, random passwords based on user-defined cr
 - **How to Run:**
   1. Navigate to the project directory:
      ```bash
-     cd CodeSoft_Internship/Random_Password_Generator
+     cd codeSoft_Internship/Random_Password_Generator
      ```
   2. Run the password generator script:
      ```bash
@@ -78,4 +77,4 @@ To use any of the projects locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/NehaVNayak/CodeSoft_Internship.git
+   git clone https://github.com/NehaVNayak/codeSoft_Internship.git
