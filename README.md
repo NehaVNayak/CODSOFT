@@ -18,7 +18,7 @@ A simple calculator application that performs basic arithmetic operations such a
 - **How to Run:**
   1. Navigate to the project directory:
      ```bash
-     cd codeSoft_Internship/Calculator
+     cd CODSOFT/Calculator
      ```
   2. Run the calculator script:
      ```bash
@@ -40,7 +40,7 @@ A command-line contact book application that allows users to manage their contac
 - **How to Run:**
   1. Navigate to the project directory:
      ```bash
-     cd codeSoft_Internship/Contact_Book
+     cd CODSOFT/Contact_Book
      ```
   2. Run the contact book script:
      ```bash
@@ -62,7 +62,7 @@ A Python script that generates secure, random passwords based on user-defined cr
 - **How to Run:**
   1. Navigate to the project directory:
      ```bash
-     cd codeSoft_Internship/Random_Password_Generator
+     cd CODSOFT/Random_Password_Generator
      ```
   2. Run the password generator script:
      ```bash
